@@ -6,4 +6,9 @@ public class DemoSaturday {
 
 		System.out.println("Saturday Demo...");
 	}
+	
+	//this is coming from gitHub
+	public static void divNum(int a, int b){
+		System.out.println(a/b);
+	}
 }
