@@ -13,4 +13,9 @@ public class DemoSunday {
 		
 		System.out.println(" XYZ ");
 	}
+	
+	//coming from gitHub
+	public static void addNum(int a, int b){
+		System.out.println(a+b);
+	}
 }
