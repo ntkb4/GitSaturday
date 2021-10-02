@@ -2,7 +2,7 @@ package saturday;
 
 public class DemoSunday {
 	
-	//Fahim..
+	//Fahim...
 	public static void subNum(int a, int b) {
 		System.out.println(a-b);
 	}
